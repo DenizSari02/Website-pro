@@ -1,0 +1,61 @@
+﻿@model KurumsalWebq.Models.Model.Hakkimizda
+@{
+    ViewBag.Title = "Hakkımızda";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+
+    <main class="main">
+        <div class="page-title dark-background">
+            <div class="container position-relative">
+                <h1>Hakkımızda</h1>
+                <p>@Model.Aciklama</p>
+                <nav class="breadcrumbs">
+                   
+                </nav>
+            </div>
+        </div>
+        <!-- About Section -->
+        <section id="about" class="about section">
+
+            <div class="container">
+
+                <div class="row gy-4">
+                    <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="@Model.VizyonResim" class="img-fluid" alt="">
+
+                    </div>
+                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
+                        <h3>Vizyonumuz</h3>
+                        <p>
+                            @Model.Vizyon
+                        </p>
+                    </div>
+
+                </div>
+                &nbsp;
+                &nbsp;
+                <div class="row gy-4">
+                    <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="@Model.MisyonResim" class="img-fluid" alt="">
+
+                    </div>
+                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
+                        <h3>Misyonumuz</h3>
+
+                        <p>
+                            @Model.Misyon
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+       
+    <!-- /About Section -->
+
+     </body>
+</html>

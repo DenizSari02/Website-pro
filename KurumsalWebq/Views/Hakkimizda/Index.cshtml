@@ -1,0 +1,54 @@
+﻿﻿@model IEnumerable<KurumsalWebq.Models.Model.Hakkimizda>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Hakkımızda</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Vizyon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VizyonResim)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Misyon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MisyonResim)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.Raw(item.Aciklama)
+            </td>
+            <td>
+                @Html.Raw(item.Vizyon)
+            </td>
+  
+            <td>
+                <img width="100" height="100" src="@item.VizyonResim" />
+            </td>
+            <td>
+                @Html.Raw(item.Misyon)
+            </td>
+            <td><img width="100" height="100" src="@item.MisyonResim" /></td>
+            <td>
+                @Html.ActionLink("Güncelleme", "Edit", new { id = item.HakkimizdaId })
+
+            </td>
+        </tr>
+    }
+
+</table>

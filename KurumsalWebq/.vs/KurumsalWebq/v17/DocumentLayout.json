@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|c:\\users\\deniz\\source\\repos\\kurumsalwebq\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\content\\sitelayout\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:content\\sitelayout\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\hizmetlerimiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\hizmetlerimiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\models\\datacontext\\kurumsaldbqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:models\\datacontext\\kurumsaldbqcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\iletisim\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\iletisim\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\kimlik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\kimlik\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\content\\adminlayout\\components-accordion.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:content\\adminlayout\\components-accordion.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\hakkimizdacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\hakkimizdacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\hakkimizda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\hakkimizda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\hizmet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\hizmet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\home\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\home\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\scripts\\jquery-3.7.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:scripts\\jquery-3.7.1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\content\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:content\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\content\\ckeditor\\styles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:content\\ckeditor\\styles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\hizmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\hizmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\models\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:models\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:content\\sitelayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\models\\model\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:models\\model\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\iletisim\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\iletisim\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\views\\iletisim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:views\\iletisim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\models\\model\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:models\\model\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\models\\model\\referanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:models\\model\\referanslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\controllers\\kimlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E5E86F-46ED-4B9D-9D2E-97C5D48ED9D2}|KurumsalWebq.csproj|solutionrelative:controllers\\kimlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blog.html",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\SiteLayout\\blog.html",
+              "RelativeDocumentMoniker": "Content\\SiteLayout\\blog.html",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\SiteLayout\\blog.html",
+              "RelativeToolTip": "Content\\SiteLayout\\blog.html",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-11T10:14:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Iletisim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Index.cshtml",
+              "RelativeToolTip": "Views\\Iletisim\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:22:24.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:45:33.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Iletisim\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Iletisim\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:18:47.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:55:13.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KurumsalDBQContext.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\DataContext\\KurumsalDBQContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext\\KurumsalDBQContext.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\DataContext\\KurumsalDBQContext.cs",
+              "RelativeToolTip": "Models\\DataContext\\KurumsalDBQContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:54:54.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeToolTip": "Views\\Home\\FooterPartial.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIAwwD0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:22:16.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:05:42.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SiteLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SiteLayout.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SiteLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:00:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hizmetlerimiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Hizmetlerimiz.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hizmetlerimiz.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Hizmetlerimiz.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hizmetlerimiz.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:21:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Kimlik\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Kimlik\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Kimlik\\Index.cshtml",
+              "RelativeToolTip": "Views\\Kimlik\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:22:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:05:47.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:58:12.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IletisimController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\IletisimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IletisimController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\IletisimController.cs",
+              "RelativeToolTip": "Controllers\\IletisimController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:45:19.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:21:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "components-accordion.html",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\AdminLayout\\components-accordion.html",
+              "RelativeDocumentMoniker": "Content\\AdminLayout\\components-accordion.html",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\AdminLayout\\components-accordion.html",
+              "RelativeToolTip": "Content\\AdminLayout\\components-accordion.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-11T09:18:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HakkimizdaController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HakkimizdaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HakkimizdaController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HakkimizdaController.cs",
+              "RelativeToolTip": "Controllers\\HakkimizdaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:43:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hakkimizda.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:47:40.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:00:57.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Hakkimizda\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hakkimizda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Hakkimizda\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hakkimizda\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T08:55:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:00:23.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:26:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Scripts\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "Scripts\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Scripts\\bootstrap.bundle.js",
+              "RelativeToolTip": "Scripts\\bootstrap.bundle.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-11T09:26:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:37:01.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SliderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\SliderPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SliderPartial.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Home\\SliderPartial.cshtml",
+              "RelativeToolTip": "Views\\Home\\SliderPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:21:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Hizmet\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hizmet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Hizmet\\Create.cshtml",
+              "RelativeToolTip": "Views\\Hizmet\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:21:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "jquery-3.7.1.js",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Scripts\\jquery-3.7.1.js",
+              "RelativeDocumentMoniker": "Scripts\\jquery-3.7.1.js",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Scripts\\jquery-3.7.1.js",
+              "RelativeToolTip": "Scripts\\jquery-3.7.1.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T16:35:26.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ckeditor.js",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\ckeditor\\ckeditor.js",
+              "RelativeDocumentMoniker": "Content\\ckeditor\\ckeditor.js",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\ckeditor\\ckeditor.js",
+              "RelativeToolTip": "Content\\ckeditor\\ckeditor.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T16:35:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "styles.js",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\ckeditor\\styles.js",
+              "RelativeDocumentMoniker": "Content\\ckeditor\\styles.js",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\ckeditor\\styles.js",
+              "RelativeToolTip": "Content\\ckeditor\\styles.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T16:35:02.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HizmetController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HizmetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HizmetController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\HizmetController.cs",
+              "RelativeToolTip": "Controllers\\HizmetController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:18:35.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\Admin.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Admin.cs",
+              "RelativeToolTip": "Models\\Model\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:17:11.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Hizmet.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Hizmet.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\Hizmet.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Hizmet.cs",
+              "RelativeToolTip": "Models\\Model\\Hizmet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:17:13.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Hakkimizda.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Hakkimizda.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\Hakkimizda.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Hakkimizda.cs",
+              "RelativeToolTip": "Models\\Model\\Hakkimizda.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:45:38.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\SiteLayout\\index.html",
+              "RelativeDocumentMoniker": "Content\\SiteLayout\\index.html",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Content\\SiteLayout\\index.html",
+              "RelativeToolTip": "Content\\SiteLayout\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-24T08:51:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Iletisim\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Iletisim\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:18:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Iletisim\\Details.cshtml",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Views\\Iletisim\\Details.cshtml",
+              "RelativeToolTip": "Views\\Iletisim\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:18:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Referanslar.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Referanslar.cs",
+              "RelativeDocumentMoniker": "Models\\Model\\Referanslar.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Models\\Model\\Referanslar.cs",
+              "RelativeToolTip": "Models\\Model\\Referanslar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:52:09.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KimlikController.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\KimlikController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KimlikController.cs",
+              "ToolTip": "C:\\Users\\deniz\\source\\repos\\KurumsalWebq\\Controllers\\KimlikController.cs",
+              "RelativeToolTip": "Controllers\\KimlikController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:43:21.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
